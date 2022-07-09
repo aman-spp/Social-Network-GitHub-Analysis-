@@ -1,5 +1,5 @@
 # we analyse the Github network of our batchmates.
-So to fetch(relevant data) data from github we required github api and performing various operation on it.
+So to fetch(relevant) data from github we required github api and performing various operation on it.
 Assumption we take :-
     Nodes : User profiles of students of our batch.
     Edges : directed link if a node follows another node
